@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-driver = webdriver.Edge("D:\Education\edgedriver_win64\msedgedriver.exe")
+driver = webdriver.Edge("{the path of the msedgedriver}\msedgedriver.exe")
 
 def give_url(link):
     driver.get(link)
