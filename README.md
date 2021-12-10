@@ -9,4 +9,4 @@ Run Edge Driver
 
 Good To Go
 
-In PATH Variable Put The Edge Driver Path After Exctracting It
+In DRIVER Variable Put The Edge Driver Path After Exctracting It
